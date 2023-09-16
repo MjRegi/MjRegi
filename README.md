@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @MjRegi
+- im a new shitty programmer learnig javascript because its famous and im forced to.
